@@ -1,1 +1,13 @@
+package CPCS234-GROUP-PROJECT;
 
+
+public class Vertex {
+
+String label;
+
+Boolean isVisited;
+
+
+public void displayInfo()
+
+}
