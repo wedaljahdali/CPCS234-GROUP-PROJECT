@@ -1,5 +1,4 @@
-package CPCS234-GROUP-PROJECT;
-
+package CPCS234-GROUP-PROJECT{
 
 public class Vertex {
 
@@ -7,7 +6,13 @@ String label;
 
 Boolean isVisited;
 
+public Vertex ( Sting label){
+this.label= label;
+}
 
-public void displayInfo()
+public void displayInfo(){
+}
+
+}
 
 }
